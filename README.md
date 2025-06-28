@@ -1,4 +1,5 @@
-! [Demo Image] (./Demo.jpg)
+![Demo](https://github.com/user-attachments/assets/0d02911f-2883-4a8a-acbd-69ed63d028e4)
+
 
 # Photo Mosaic Generator 🎨
 
