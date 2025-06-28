@@ -1,4 +1,4 @@
-! [Demo Image] (Demo.jpg)
+! [Demo Image] (./Demo.jpg)
 
 # Photo Mosaic Generator 🎨
 
